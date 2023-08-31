@@ -72,3 +72,8 @@ Forecasting food prices involves inherent uncertainty due to various factors. So
 • Additionally, scenario analysis can be employed to assess the uncertainty. By considering different scenarios based on varying assumptions and key factors, you can evaluate a range of potential outcomes and their associated risks. Sensitivity analysis can also help identify the key variables that have a significant impact on the forecasted food prices, allowing for a better understanding of the uncertainty involved.
 
 • It's important to note that the accuracy of the forecasted food prices will depend on the quality of the data, the chosen forecasting models/methods, and the assumptions made. Regularly updating the forecast with new data and monitoring changes in relevant factors will help adapt and refine the forecast as conditions evolve, further reducing uncertainty.
+
+## References
+
+  1. [Humdata](https://data.humdata.org/dataset/wfp-food-prices)
+  2. [Natural Earth](https://www.naturalearthdata.com/)
